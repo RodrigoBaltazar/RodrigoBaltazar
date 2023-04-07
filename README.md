@@ -8,7 +8,7 @@
 
 
 ###
-<h2 align="left">Here my favorite tools.</h2>
+<h2 align="left">Here are my favorite tools.</h2>
 
 ###
 <div align="left">
