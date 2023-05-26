@@ -32,5 +32,5 @@
 <div align="left">
 <h2>Below you can go to my LinkedIn page.</h2>
 
- <a href="https://www.linkedin.com/inrodrigo-baltazar-b7537a3a/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+ <a href="https://www.linkedin.com/in/rodrigo-baltazar-b7537a3a/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
 </div>
