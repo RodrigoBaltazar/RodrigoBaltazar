@@ -6,7 +6,7 @@
   <img alt="gif shows a cat typing in the computer" src="https://media.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif">
 </picture>
 
-I'm currently developing <https://www.mmsfutebol.com>.
+I'm currently developing < a website for poalab@IFRS Precious Plastic>.
 ###
 <h2 align="left">Here are my favorite tools.</h2>
 
@@ -32,5 +32,5 @@ I'm currently developing <https://www.mmsfutebol.com>.
 <div align="left">
 <h2>Below you can go to my LinkedIn page.</h2>
 
- <a href="https://www.linkedin.com/in/rodrigo-baltazar-b7537a3a/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+ <a href="https://www.linkedin.com/in/rodrigo-baltazar-dev/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
 </div>
