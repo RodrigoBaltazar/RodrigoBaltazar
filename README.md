@@ -6,7 +6,7 @@
   <img alt="gif shows a cat typing in the computer" src="https://media.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif">
 </picture>
 
-I'm currently developing < a website for poalab@IFRS Precious Plastic >.
+I'm currently developing < a plugin for wordpress >.
 ###
 <h2 align="left">Here are my favorite tools.</h2>
 
